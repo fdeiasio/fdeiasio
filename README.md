@@ -7,14 +7,6 @@ Open to internships in embedded software, firmware and edge systems.
 
 ## Selected work
 
-### [stm32-vcu-firmware](https://github.com/fdeiasio/stm32-vcu-firmware)
-
-Vehicle Control Unit firmware for a Formula Student car, written from scratch in bare-metal C on an
-STM32F446RE. No RTOS: a tickless, non-preemptive, static-priority scheduler with a delta-list timer,
-plus the CAN layer for two buses. Timing argued with response-time analysis.
-
-`C` `STM32` `bare-metal` `interrupts` `CAN` `real-time scheduling` `PlatformIO`
-
 ### [ml2-stereo-pipeline](https://github.com/fdeiasio/ml2-stereo-pipeline)
 
 Stereo depth and 6-DoF object pose from Magic Leap 2 world cameras. Calibration, rectification,
