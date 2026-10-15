@@ -1,8 +1,7 @@
 # Francesco De Iasio
 
 Computer Engineering MSc at the University of Pisa and the Sant'Anna School of Advanced Studies,
-in Pisa, Italy. I work on embedded and real-time systems — bare-metal firmware, CAN, scheduling —
-and on the computer-vision side of edge devices.
+in Pisa, Italy.
 
 Open to internships in embedded software, firmware and edge systems.
 
